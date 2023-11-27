@@ -39,5 +39,5 @@ The project is organized into the following directories:
 
 ## Building and Running the Project
 
-To run the project, make sure you have Flutter installed. Then, navigate to the project directory and use the following commands:
+To run the project, make sure you have Flutter installed. Then, navigate to the project directory and run
 
